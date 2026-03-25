@@ -1,26 +1,49 @@
 🚀 About Me
 
-Hi, I'm Sekhar, a passionate Software Engineering student and aspiring full-stack developer. I enjoy building scalable web applications and solving real-world problems through code.
+Hi, I'm Sekhar 👋
+A passionate Software Engineering student and aspiring Full-Stack Developer who loves building scalable web apps and solving real-world problems through code.
 
-💻 Skilled in:
+---
 
-Languages: Java, Python, C++
-Web Development: HTML, CSS, JavaScript, React, Node.js
-Backend: Spring Boot, REST APIs
-Database: MongoDB, MySQL
+💻 Tech Stack
 
-📌 What I’m currently doing:
+🔹 Languages: Java • Python • C++
 
-Preparing for software engineering placements
-Practicing Data Structures & Algorithms in C++
-Building projects like Job Portal & Expense Tracker
+🔹 Frontend: HTML • CSS • JavaScript • React
 
-🌱 Goals:
+🔹 Backend: Node.js • Spring Boot • REST APIs
 
-Become a software engineer in a product-based company
-Master full-stack development and system design
+🔹 Database: MongoDB • MySQL
 
-📫 Connect with me:
+---
+  
 
-LinkedIn: www.linkedin.com/in/telukala-sekhar
-Email:telukulasekhar1319@gmail.com
+
+
+📌 Currently Working On
+
+🚀 Preparing for Software Engineering Placements
+📚 Practicing Data Structures & Algorithms (C++)
+🛠️ Building projects like Job Portal & Expense Tracker
+
+---
+
+
+
+
+🌱 Goals
+
+🎯 Crack a role in a product-based company
+⚡ Master Full-Stack Development & System Design
+
+---
+
+
+
+📫 Connect With Me
+
+🔗 LinkedIn:www.linkedin.com/in/telukala-sekhar
+
+   Email:telukulasekhar1319@gmail.com
+
+✨ "Building scalable solutions, one project at a time."
